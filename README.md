@@ -30,3 +30,6 @@ Consulta à [API](rickandmortyapi.com/api) que retorna personagens por meio de b
 ### Telas de erros:  
 ![erro-1.png](screenshots/erro-1.png)
 ![erro-2.png](screenshots/erro-2.png)
+
+### Figma:
+![figma.png](screenshots/figma.png)
