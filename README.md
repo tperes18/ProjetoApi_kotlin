@@ -12,6 +12,7 @@ Consulta à [API](rickandmortyapi.com/api) que retorna personagens por meio de b
 |------------|-----------|
 | Yuri | Programação do projeto |
 | Leonardo Silva | Design das telas |
+| Theo Peres | Apresentação e README |
 
 ## Prints do projeto funcional: 
 ### Tela de login:  
