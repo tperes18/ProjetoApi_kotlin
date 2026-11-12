@@ -1,3 +1,5 @@
+**⚠ ESTE REPOSITÓRIO É UM FORK DO PROJETO DE [ORACKA](https://github.com/Oracka/ProjetoApi_kotlin) (YURI, INTEGRANTE DA EQUIPE). TODOS OS CRÉDITOS VÃO PARA ELE ⚠**
+
 # Projeto Kotlin - API Personagens 
 Trabalho em equipe no desenvolvimento kotlin, trabalhando com api aberta.  
 **Obs:** Versão de lab utilizada para desenvolvimento.
