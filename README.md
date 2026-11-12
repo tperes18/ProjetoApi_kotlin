@@ -1,9 +1,29 @@
-# ProjetoApi_kotlin
-Trabalho em equipe no desenvolvimento kotlin, trabalhando com api aberta.
-**Obs:** versao de lab utilizada para desenvolvimento.
+# Projeto Kotlin - API Personagens 
+Trabalho em equipe no desenvolvimento kotlin, trabalhando com api aberta.  
+**Obs:** Versão de lab utilizada para desenvolvimento.
 
-## Personagens 
-consulta uma api generica e que devolve por base do id ou nome do personagem, podendo favoritar no processo. 
+## API: Rick and Morty API
+Consulta à [API](rickandmortyapi.com/api) que retorna personagens por meio de busca por ID ou por nome, com funcionalidade de favoritar. 
 
-## prints do projeto funcional: 
+## Divisão de tarefas
+| Integrante | O que fez |
+|------------|-----------|
+| Yuri | Programação do projeto |
+| Leonardo Silva | Design das telas |
 
+## Prints do projeto funcional: 
+### Tela de login:  
+![login.png](screenshots/login.png)  
+
+### Tela de cadastro:  
+![cadastro.png](screenshots/cadastro.png)  
+
+### Tela de busca:  
+![busca.png](screenshots/busca.png)  
+
+### Tela de favoritos:  
+![favoritos.png](screenshots/favoritos.png)  
+
+### Telas de erros:  
+![erro-1.png](screenshots/erro-1.png)
+![erro-2.png](screenshots/erro-2.png)
